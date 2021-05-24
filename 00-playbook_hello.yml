@@ -1,0 +1,6 @@
+---
+- name: Ansible Hello World Role
+  hosts: my_server
+  roles:
+    - my_namespace_jovemfelix.my_collection.ping
+...

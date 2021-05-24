@@ -1,0 +1,4 @@
+---
+# tasks file for ./collections/ansible_collections/my_namespace_jovemfelix/my_collection/roles/ping
+- name: ping at server
+  ping:
