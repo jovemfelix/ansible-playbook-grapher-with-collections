@@ -194,3 +194,4 @@ ansible-playbook-grapher 0.11.0 (with ansible 2.10.8)
 ## Reference
 
 * How to run an Ansible playbook locally - https://gist.github.com/jovemfelix/fbbcfed3ab24e9a724256bfd1be058f5
+* ansible-playbook-grapher - https://github.com/haidaraM/ansible-playbook-grapher
